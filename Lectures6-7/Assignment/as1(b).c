@@ -5,7 +5,7 @@
 
 int main(){
 
-    bool pathway[8] = {true, 0, true};
+    bool pathway[8] = {true, false, true};
 
     for (int i = 0; i < NUM_PATHWAYS; i++){
 
